@@ -1,0 +1,14 @@
+C:\Users\kc2us\Documents\GitHub\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\netcoreapp3.0\ExceptionHandlingExercise.exe
+C:\Users\kc2us\Documents\GitHub\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\netcoreapp3.0\ExceptionHandlingExercise.deps.json
+C:\Users\kc2us\Documents\GitHub\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\netcoreapp3.0\ExceptionHandlingExercise.runtimeconfig.json
+C:\Users\kc2us\Documents\GitHub\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\netcoreapp3.0\ExceptionHandlingExercise.runtimeconfig.dev.json
+C:\Users\kc2us\Documents\GitHub\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\netcoreapp3.0\ExceptionHandlingExercise.dll
+C:\Users\kc2us\Documents\GitHub\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\netcoreapp3.0\ExceptionHandlingExercise.pdb
+C:\Users\kc2us\Documents\GitHub\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.csproj.AssemblyReference.cache
+C:\Users\kc2us\Documents\GitHub\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kc2us\Documents\GitHub\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.AssemblyInfoInputs.cache
+C:\Users\kc2us\Documents\GitHub\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.AssemblyInfo.cs
+C:\Users\kc2us\Documents\GitHub\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.csproj.CoreCompileInputs.cache
+C:\Users\kc2us\Documents\GitHub\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.dll
+C:\Users\kc2us\Documents\GitHub\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.pdb
+C:\Users\kc2us\Documents\GitHub\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.genruntimeconfig.cache
